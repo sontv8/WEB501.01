@@ -3,17 +3,34 @@
     {
       "id": 1,
       "name": "Product 1",
-      "image": "https://picsum.photos/100/125"
+      "image": "https://picsum.photos/100/125",
+      "categoryId": 1
     },
     {
       "id": 2,
       "name": "Product 2",
-      "image": "https://picsum.photos/100/125"
+      "image": "https://picsum.photos/100/125",
+      "categoryId": 2
     },
     {
-      "name": "hhhhh",
-      "image": "uuuu",
-      "id": 3
+      "name": "Product 3",
+      "image": "https://picsum.photos/100/125",
+      "id": 3,
+      "categoryId": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Category 1"
+    },
+    {
+      "id": 2,
+      "name": "Category 2"
+    },
+    {
+      "id": 3,
+      "name": "Category 3"
     }
   ]
 }
